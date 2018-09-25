@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground">
+
+    <ProgressBar
+        android:layout_width="@dimen/pb_size"
+        android:layout_height="@dimen/pb_size"
+        android:id="@+id/pb_questions"
+        android:layout_gravity="center"
+        android:visibility="gone"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/side_distance"
+        android:animateLayoutChanges="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold|italic"
+            android:textColor="@color/colorAccent"
+            android:visibility="gone"
+            android:id="@+id/tv_missing"/>
+
+        <Button
+            android:visibility="gone"
+            android:id="@+id/btn_show_result"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:background="@drawable/btn_background"
+            android:text="@string/questions_show_result_btn"
+            android:layout_marginBottom="@dimen/distance"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:textStyle="bold"
+                android:textColor="@color/colorAccent"
+                android:id="@+id/tv_process_status"/>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/process_bar_height"
+                android:layout_below="@id/tv_process_status">
+
+                <View
+                    android:layout_width="match_parent"
+                    android:id="@+id/v_container"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/process_bar_background"/>
+
+                <View
+                    android:layout_width="40dp"
+                    android:id="@+id/v_content"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/process_bar_inner_background"/>
+
+            </FrameLayout>
+
+        </RelativeLayout>
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tab_questions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            app:tabTextColor="@android:color/black"
+            app:tabSelectedTextColor="@color/colorAccent"
+            app:tabMode="scrollable"/>
+
+        <karsai.laszlo.kasam.CustomViewPager
+            android:id="@+id/viewpager_questions"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

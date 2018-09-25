@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="distance">8dp</dimen>
+    <dimen name="small_distance">4dp</dimen>
+    <dimen name="side_distance">16dp</dimen>
+    <dimen name="result_element_stroke_width">1dp</dimen>
+    <dimen name="separator_width">3dp</dimen>
+    <dimen name="extra_big_char_size">60sp</dimen>
+    <dimen name="big_size">25sp</dimen>
+    <dimen name="corner_size">10dp</dimen>
+    <dimen name="pb_size">42dp</dimen>
+    <dimen name="process_bar_height">20dp</dimen>
+    <dimen name="process_bar_stroke">1dp</dimen>
+    <dimen name="small_size">16sp</dimen>
+    <dimen name="medium_size">20sp</dimen>
+    <dimen name="chooser_elevation">8dp</dimen>
+    <dimen name="about_photo_size">60dp</dimen>
+    <dimen name="chooser_fragment_size">300dp</dimen>
+</resources>

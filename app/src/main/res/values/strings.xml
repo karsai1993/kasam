@@ -1,0 +1,248 @@
+<resources>
+    <string name="app_name">Kasam</string>
+    <string name="option_background_content_description">Option Background</string>
+    <string name="main_btn_text">Start</string>
+    <string name="main_welcome">Welcome to KASAM Test</string>
+    <string name="main_description">
+        The concept of comprehension, the manageability and the meaningful aspect together form
+        the prerequisites for the basic \"sense of context\"
+        (KASAM) we carry with us on our journey through life. The sense of coherence is
+        urgently an attitude that expresses the extent to which one has a lasting and
+        pervasive sense of confidence in her/his ability to meet the different shifts of life.\n\n
+        Please, mark your answer from 1 to 7 for the following 29 questions/statements to have your KASAM score.</string>
+    <string name="main_edit_text_hint">Please, type your name!</string>
+    <string name="problem">Problem occurred.</string>
+    <string name="agree_terms_privacy">By continuing, you agree
+        to the &lt;a href=https://sites.google.com/view/kasam-en-terms>Terms of Use&lt;/a> and
+        the &lt;a href=https://sites.google.com/view/kasam-en-privacy-policy>Privacy Policy&lt;/a>.</string>
+    <string name="main_name_empty">Please, type your name to continue!</string>
+    <string name="answers_missing">It seems you have gone through the questions
+        but meanwhile, you missed one or some:\u0020</string>
+    <string name="of">\u0020of\u0020</string>
+    <string name="questions_show_result_btn">Click to view your results!</string>
+    <string name="instruction">Click/Drag &amp; drop based on your best suit for each question/statement!</string>
+    <string name="statements_title">\'s test</string>
+
+    <string name="results_title">\'s results</string>
+    <string name="result_header_m">Meaningful aspect</string>
+    <string name="result_header_b">Concept of comprehension</string>
+    <string name="result_header_h">Manageability</string>
+    <string name="result_header_total">Total KASAM score</string>
+
+    <string name="share_title">Sharing your results&#8230;</string>
+    <string name="share_subject">Statistics from Kasam app</string>
+    <string name="share_welcome">Here are results of %s\'s KASAM test.\n</string>
+    <string name="share_main_scores">\nThe most important score and their values are the followings:\n
+    Meaningful aspect: %s.\n
+    Concept of comprehension: %s.\n
+    Manageability: %s.\n
+    Total KASAM score: %s.\n</string>
+    <string name="share_results">\nHere are the outcomes of the result analysis:\n</string>
+    <string name="share_details">\nHere are the details of the answer of each question:\n</string>
+    <string name="share_note">\n* = Answers should be valued in reverse (7 should be 1, 1 should be 7, etc.).</string>
+
+    <string name="share_from">\n\nShared from Kasam app</string>
+
+    <string name="one">1</string>
+    <string name="seven">7</string>
+
+    <string name="dismiss">Dismiss</string>
+    <string name="eq">means:</string>
+    <string name="about_label">About app</string>
+    <string name="about_logo_content_description">About App Logo</string>
+    <string name="about_mission_label">Mission</string>
+    <string name="about_icons_label">Icons</string>
+    <string name="about_documents_label">Documents</string>
+    <string name="about_information_label">Information source</string>
+    <string name="about_calculation_label">Result calculation</string>
+    <string name="about_calculation1">Total KASAM score = M + B + H + Q3</string>
+    <string name="about_calculation2">\nWhere M is the score of meaningful aspect, B is the score
+    of concept of comprehension, H is the score of manageability and Q3 is the score of the 3rd question
+    out of the all 29 ones.</string>
+
+    <string name="about_mission1">
+        There is no one who is happy, enthusiastic, contentious and at high levels of life in
+        a very worrying, threatening and unpleasant life situation. There are people in every
+        social class who are stuck in an unwanted situation, and who do not see a chance to
+        break out. From time to time life is painful to all of us, when loved ones suffer and
+        die when the one we love fools us or even children badly, etc. The one who has a
+        strong KASAM is no more satisfied in such situations, but on the other hand, the
+        KASAM strongly attempts to actively look at the context and influence the
+        circumstances as well as possible, make the best of the situation, take care of what
+        can make life bearable in the midst of its unpleasant. It is for this specific aspect
+        of well-being that KASAM is important.
+    </string>
+    <string name="about_icons">The used icons are from the
+        &lt;a href=https://material.io/tools/icons/?style=baseline>Material Design&lt;/a> web page.</string>
+    <string name="about_documents1">
+        By using the app, you hereby accept the
+        &lt;a href=https://sites.google.com/view/kasam-en-terms>Terms of Use&lt;/a> and
+        the &lt;a href=https://sites.google.com/view/kasam-en-privacy-policy>Privacy Policy&lt;/a>.
+    </string>
+    <string name="about_documents2">This is a free software licensed under
+        &lt;a href=https://www.gnu.org/licenses/agpl-3.0.en.html>GNU AGPL v3&lt;/a>.
+    </string>
+    <string name="about_information">For information about the KASAM test and more descriptions,
+        please, click &lt;a href=https://www.skaraborg.se/globalassets/valfard/dokument/kasam-frageformular-----------------------29-fragor.pdf>
+        here&lt;/a>.</string>
+    <string name="about_mission2">\n
+        The concept of comprehension is about the fact that both internal and
+        external stimuli in life are thought to be structured, predictable and
+        comprehensible.\n\n
+Manageability refers to the degree to which it relies on its ability to make
+        available the resources, both internal and external, necessary to meet
+        all life events.\n\n
+The meaningful aspect, ultimately, refers to the ability to see all situations,
+        even demanding and problematic, as challenges worth investing time,
+        dedication and energy in.
+    </string>
+
+    <string name="kasam_g_120_l_160_header">You are a healthy person</string>
+    <string name="kasam_g_120_l_160_value">It appears that a reasonable overall average for healthy
+        persons is around 140 KASAM total points. As your KASAM score is around 140, then it seems
+    that you are a healthy person from the KASAM test perspective.</string>
+    <string name="kasam_g_160_l_190_header">You are a strong KASAM person</string>
+    <string name="kasam_g_160_l_190_value">As your KASAM score is greater than 160 but lower than 190,
+        then it seems that you are a strong KASAM person. A true KASAM-strong person can face
+        challenging challenges, and withstand more complexity in existence than a KASAM weak.</string>
+    <string name="kasam_g_70_l_120_header">You are a weak KASAM person</string>
+    <string name="kasam_g_70_l_120_value">As your KASAM score is greater than 70 but lower than 120,
+        then it seems that you are a weak KASAM person. There is nothing wrong with being
+        KASAM-weak, but you should think about lowering your ambition level, do not take too
+        much responsibility and try to keep the level of difficulty in the challenges you assume.</string>
+
+    <string name="kasam_l_120_l_100_header">You may be stuck in a situation</string>
+    <string name="kasam_l_120_l_100_value">As you have less than 100 KASAM points,
+        there is an obvious risk that you have stuck in your current situation, and it is
+        recommended that you seek professional help (preferably a cognitive behavioral
+        therapist), not to undergo psychotherapy, but for help to structure and initiate
+        in a structured manner the implementation of a personal action plan.</string>
+    <string name="kasam_l_120_low_m_header">You have low meaningful aspect value</string>
+    <string name="kasam_l_120_low_m_value">As you have less than 30 points for meaningful aspect,
+        it indicates lack
+        of involvement in the everyday situations you are most often in. Then you should
+        focus on developing your perspective ability,
+        consider over the meaning of life and try to relinquish more from your own values
+        ​​and do what you are good at, more often put into situations you like. It can also
+        stand for depression and emotional fatigue. Sometimes it may be because you have
+        linked your life to another person or group whose lifestyle / culture does not suit
+        one\'s own.</string>
+    <string name="kasam_l_120_low_b_header">You have low concept of comprehension value</string>
+    <string name="kasam_l_120_low_b_value">As you have less than 35 points for concept of comprehension,
+        it is apparent that the everyday life situation is more complex than at present
+        having intellectual energy to cope, or having linguistic or social difficulties
+        in its current environment. Sometimes weak B is caused by cognitive problems,
+        the presence of too many negative and disturbing thoughts, the inability to
+        self-control their reactions, poor self-esteem. Weak B sometimes has a clear
+        connection to \"external control locus\".</string>
+    <string name="kasam_l_120_low_h_header">You have low manageability value</string>
+    <string name="kasam_l_120_low_h_value">As you have less than 35 points for manageability,
+        it usually means lack of trust and resource weakness in relation to
+        everyday requirements which can be caused by inadequate skills, poor economy,
+        lack of togetherness, etc. It may also be because of the complexity of life when
+        job, family, economics and others make greater demands than currently envisaged,
+        and it has not yet been possible to develop enough functional new behaviors.
+        A form of cognitive function that can be called self-esteem is also included in
+        Manageability, that is, the ability to believe in being able to influence and be strong.</string>
+
+    <string name="kasam_g_190_l_70_header">You are a suspicious person</string>
+    <string name="kasam_g_190_l_70_value">More than 190 or less than 70 should cause suspicion of
+        error-prompted instructions or lack of sincerity in the response. As you are in this
+    category, please, make the test again.</string>
+    <string name="result_arrow_content_description">Result Show Image</string>
+    <string name="share">Share</string>
+
+    <string-array name="questions">
+        <item>When you talk to people, do you feel that they do not understand you?</item>
+        <item>Once you have had to do something that required collaboration with others, did you feel that it could be done?</item>
+        <item>Think of the people you come into contact with daily, apart from those closest to you. How well do you know most of them?</item>
+        <item>How often do you feel that you do not really care what is happening around you?</item>
+        <item>Has it happened that you were surprised by the behavior of people you thought you felt well?</item>
+        <item>Has it happened that people you trusted have disappointed you?</item>
+        <item>Life is</item>
+        <item>So far your life has</item>
+        <item>How often do you feel unfairly treated?</item>
+        <item>In the past ten years, your life has been</item>
+        <item>Most things you do in the future are likely to be</item>
+        <item>How often do you feel like you are in an unfamiliar situation and do not know what to do?</item>
+        <item>How do you look at life?</item>
+        <item>When you think about your life, it happens very often that you</item>
+        <item>When you are facing a difficult problem, the solution is</item>
+        <item>Your daily job is a source of</item>
+        <item>In the future your life will probably be</item>
+        <item>When something unpleasant happened before, you used to</item>
+        <item>How often do you have much contradictory feelings and thoughts?</item>
+        <item>When you do something that makes you feel comfortable</item>
+        <item>How often does it happen that you have feelings within you that you prefer not to feel?</item>
+        <item>You are determined that your personal life in the future will be</item>
+        <item>Do you think there will always be people in the future that you can count on?</item>
+        <item>How often does it happen that you have the feeling that you do not know exactly what is happening?</item>
+        <item>Even a person with strong self-esteem can sometimes feel like an "unfortunate" one. How often do you feel that?</item>
+        <item>When something has happened, you have usually found that</item>
+        <item>When you think of difficulties that you are likely to face in important areas of your life, you have the feeling that</item>
+        <item>How often do you feel there is no sense with the things you do in your daily life?</item>
+        <item>How often do you have feelings you are not sure you can control?</item>
+    </string-array>
+    <string-array name="answers_1">
+        <item>I never have that feeling</item>
+        <item>Certainly no</item>
+        <item>I think they are strangers</item>
+        <item>Very rarely or never</item>
+        <item>It has never happened</item>
+        <item>It has never happened</item>
+        <item>More interesting with others</item>
+        <item>Completely missed goals and meaning</item>
+        <item>Very often</item>
+        <item>Full of changes without knowing what comes next</item>
+        <item>Totally fascinating</item>
+        <item>Very often</item>
+        <item>There is always a solution to the difficulties of life</item>
+        <item>Feel how wonderful it is to live</item>
+        <item>Always confusing and difficult to find</item>
+        <item>Joy and deep satisfaction</item>
+        <item>Full of changes without knowing what is happening next</item>
+        <item>Love it over and over again</item>
+        <item>Very often</item>
+        <item>You will certainly continue to feel well at ease</item>
+        <item>Very often</item>
+        <item>Completely without purpose and meaning</item>
+        <item>I am absolutely sure</item>
+        <item>Very often</item>
+        <item>Never</item>
+        <item>You overrated or underestimated its significance</item>
+        <item>You will always be able to overcome the difficulties</item>
+        <item>Very often</item>
+        <item>Very often</item>
+    </string-array>
+    <string-array name="answers_7">
+        <item>I always have that feeling</item>
+        <item>Certainly yes</item>
+        <item>I know them very well</item>
+        <item>Very often</item>
+        <item>It has often happened</item>
+        <item>It has often happened</item>
+        <item>Better completely alone</item>
+        <item>Been full of goals and meaning</item>
+        <item>Very rarely / never</item>
+        <item>Completely predictable without surprising changes</item>
+        <item>Completely boring</item>
+        <item>Very rarely / never</item>
+        <item>There is no solution to the difficulties of life</item>
+        <item>Ask yourself why, at all, it exists</item>
+        <item>Completely sunny</item>
+        <item>Pain and suffering</item>
+        <item>Completely predictable and without surprising changes</item>
+        <item>Say \"get it\" and then move on</item>
+        <item>Very rarely / never</item>
+        <item>Something will certainly happen that disturbs your good feeling</item>
+        <item>Very rarely / never</item>
+        <item>Filled with goals and meaning</item>
+        <item>I doubt that</item>
+        <item>Very rarely / never</item>
+        <item>Very often</item>
+        <item>You saw the matter in its correct proportion</item>
+        <item>You will not be able to overcome the difficulties</item>
+        <item>Very rarely / never</item>
+        <item>Very rarely / never</item>
+    </string-array>
+</resources>
